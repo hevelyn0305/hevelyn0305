@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou a Hevelyn! 👋
 
-<!--
-**hevelyn0305/hevelyn0305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudante de Informática | IFTO
+Atualmente cursando o **2º ano do Ensino Médio Técnico em Informática** no Instituto Federal do Tocantins.
+Sou entusiasta da tecnologia e estou construindo minha base para me tornar uma desenvolvedora!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+- 🏫 **Instituição:** IFTO (Instituto Federal do Tocantins)
+- 📚 **Foco atual:** Lógica de programação, Banco de Dados e Desenvolvimento Web.
+- 🌱 **Aprendendo:** Aprimorando meus conhecimentos em Python e estruturação de sistemas.
+- 💞️ **Interesses:** Adoro resolver problemas através do código e aprender novas ferramentas.
