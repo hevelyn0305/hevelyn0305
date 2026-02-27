@@ -10,4 +10,4 @@ Sou entusiasta da tecnologia e estou construindo minha base para me tornar uma d
 - 🏫 **Instituição:** IFTO (Instituto Federal do Tocantins)
 - 📚 **Foco atual:** Lógica de programação, Banco de Dados e Desenvolvimento Web.
 - 🌱 **Aprendendo:** Aprimorando meus conhecimentos em Python e estruturação de sistemas.
-- 💞️ **Interesses:** Adoro resolver problemas através do código e aprender novas ferramentas.
+
